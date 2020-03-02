@@ -1,1 +1,0 @@
-This program gives the values of the dimensions of a 2-D object.
